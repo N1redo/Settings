@@ -54,3 +54,6 @@
 
 ## 18.信任文件
 <img width="982" height="730" alt="image" src="https://github.com/user-attachments/assets/1946aff1-55ea-49a2-af7b-c100c7968f51" />
+
+## 19.Plugins
+<img width="486" height="633" alt="image" src="https://github.com/user-attachments/assets/d04c6ad4-0817-4cf3-8810-7e6700fdf564" />
